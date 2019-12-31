@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `JTM Auto | Parts and accessories for your car`,
-    description: `Check out a variety of auto parts, supplies, and accessories for cars, trucks, and SUVs, as well as boats, trailers, ATVs.`,
+    title: `JTM Auto`,
+    description: `Parts and accessories for your car. Check out a variety of auto parts, supplies, and accessories for cars, trucks, and SUVs, as well as boats, trailers, ATVs.`,
     author: `@jtmauto`,
   },
   plugins: [

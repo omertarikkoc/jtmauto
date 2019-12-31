@@ -6,19 +6,27 @@ export default {
     products: [
         {
             productName: "Spare Tire Cover",
-            productImage: ""
+            productImage: "https://source.unsplash.com/300x300/?tire"
         },
         {
-            productName: "Spare Tire Cover",
-            productImage: ""
+            productName: "Lights",
+            productImage: "https://source.unsplash.com/300x300/?cars"
         },
         {
-            productName: "Spare Tire Cover",
-            productImage: ""
+            productName: "Product X",
+            productImage: "https://source.unsplash.com/300x300/?automative"
         },
         {
-            productName: "Spare Tire Cover",
-            productImage: ""
+            productName: "Product Y",
+            productImage: "https://source.unsplash.com/300x300/?engine"
+        },
+        {
+            productName: "Product V",
+            productImage: "https://source.unsplash.com/300x300/?automative"
+        },
+        {
+            productName: "Product H",
+            productImage: "https://source.unsplash.com/300x300/?engine"
         }
     ]
 }

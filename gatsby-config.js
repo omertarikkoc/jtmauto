@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `JTM Auto | Parts and accessories for your car`,
+    description: `Check out a variety of auto parts, supplies, and accessories for cars, trucks, and SUVs, as well as boats, trailers, ATVs.`,
+    author: `@jtmauto`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

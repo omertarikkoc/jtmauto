@@ -12,6 +12,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Intro from "./intro"
 import siteData from '../data/data'
+import Footer from './footer'
 
 import "./layout.css"
 
@@ -41,10 +42,8 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
 
-        <footer>
-          © {new Date().getFullYear()}
-        </footer>
       </div>
+      <Footer></Footer>
     </>
   )
 }

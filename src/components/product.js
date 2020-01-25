@@ -8,12 +8,12 @@ const Product = ({productName, productPhoto}) => (
     }}>
         <img style={{
             maxWidth:`300px`,
-            
+            width: `300px`
             }} 
             src={productPhoto} />
-        <h3 style={{
+        <h6 style={{
             textAlign:`center`
-        }}>{productName}</h3>
+        }}>{productName}</h6>
     </div>
 )
 

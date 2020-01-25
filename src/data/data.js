@@ -5,28 +5,20 @@ export default {
     },
     products: [
         {
-            productName: "Spare Tire Cover",
-            productImage: "https://source.unsplash.com/300x300/?tire"
+            productName: "9 LED WHITE DAYTIME RUNNING LIGHT",
+            productImage: "https://productdevcenter.s3.amazonaws.com/media/JTMAUTO/SKL-9LED/JT_SKL-9LED_White/Amber_Large_1.jpg"
         },
         {
-            productName: "Lights",
-            productImage: "https://source.unsplash.com/300x300/?cars"
+            productName: "2PCS LED WHITE CAR LIGHT",
+            productImage: "https://productdevcenter.s3.amazonaws.com/media/JTMAUTO/SKL-6ledL/JT_SKL-6ledL_White_Medium_1.jpg"
         },
         {
-            productName: "Product X",
-            productImage: "https://source.unsplash.com/300x300/?automative"
+            productName: "2PCS WHITE 4 LED ROUND LIGHT",
+            productImage: "https://productdevcenter.s3.amazonaws.com/media/JTMAUTO/SKL-4LED/JT_SKL-4LED_White_Small_1.jpg"
         },
         {
-            productName: "Product Y",
-            productImage: "https://source.unsplash.com/300x300/?engine"
+            productName: "9 LED DAYTIME RUNNING FOG LIGHT 12V",
+            productImage: "https://productdevcenter.s3.amazonaws.com/media/JTMAUTO/SKL-9LEDW/JT_SKL-9LEDW_White_Large_1.jpg"
         },
-        {
-            productName: "Product V",
-            productImage: "https://source.unsplash.com/300x300/?automative"
-        },
-        {
-            productName: "Product H",
-            productImage: "https://source.unsplash.com/300x300/?engine"
-        }
     ]
 }
